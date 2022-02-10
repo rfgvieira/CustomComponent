@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EuButton</string>
+    <string name="quantidade">Digite a quantidade de passos</string>
+    <string name="prosseguir">Prosseguir</string>
+</resources>
